@@ -1,8 +1,5 @@
 # CS236299: Introduction to Natural Language Processing
 
-The course is currently in progress, and the repository will be fully uploaded upon its completion.
-In the meantime, the labs and project are shared with the public through separate dedicated branches.
-
 ## Course Info
 Introduction to natural language processing. The course presents methods for
 representing human language at different levels, moving from simple bag-of-words
